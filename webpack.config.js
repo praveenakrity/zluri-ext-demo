@@ -44,6 +44,7 @@ var options = {
     devtools: path.join(__dirname, 'src', 'pages', 'Devtools', 'index.js'),
     panel: path.join(__dirname, 'src', 'pages', 'Panel', 'index.jsx'),
     intro: path.join(__dirname, 'src', 'pages', 'Dashboard', 'introEntry.js'),
+    profile: path.join(__dirname, 'src', 'pages', 'Profile', 'profileEntry.js'),
   },
   chromeExtensionBoilerplate: {
     notHotReload: ['background', 'contentScript', 'devtools'],
