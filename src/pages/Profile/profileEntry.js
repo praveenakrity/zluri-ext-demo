@@ -3,8 +3,8 @@ import { render } from 'react-dom';
 
 import { Auth0Provider } from '@auth0/auth0-react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Intro from './Intro';
-import ProfileHero from '../../components/Profile/ProfileHero';
+import Profile from './Profile';
+
 
 render(
   <BrowserRouter>
@@ -16,10 +16,10 @@ render(
     cacheLocation="localstorage"
     audience="https://express.sample"
   > 
-    <Intro/>
+    <Profile/>
   </Auth0Provider>
   </BrowserRouter>,
-  document.querySelector('#main-container')
+  document.querySelector('#profile-container')
 );
 
 if (module.hot) module.hot.accept();  
