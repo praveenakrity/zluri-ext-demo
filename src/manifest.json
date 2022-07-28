@@ -17,9 +17,7 @@
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
-  "icons": {
-    "128": "icon-128.png"
-  },
+  
   "content_scripts": [
     {
       "matches": ["http://*/*", "https://*/*", "<all_urls>"],
