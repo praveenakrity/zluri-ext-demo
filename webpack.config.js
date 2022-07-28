@@ -45,6 +45,7 @@ var options = {
     panel: path.join(__dirname, 'src', 'pages', 'Panel', 'index.jsx'),
     intro: path.join(__dirname, 'src', 'pages', 'Dashboard', 'introEntry.js'),
     profile: path.join(__dirname, 'src', 'pages', 'Profile', 'profileEntry.js'),
+    bookmarks: path.join(__dirname, 'src', 'pages', 'Bookmarks', 'bookmarksEntry.js'),
   },
   chromeExtensionBoilerplate: {
     notHotReload: ['background', 'contentScript', 'devtools'],
@@ -196,6 +197,12 @@ var options = {
       template: path.join(__dirname, 'src', 'pages', 'Devtools', 'index.html'),
       filename: 'devtools.html',
       chunks: ['devtools'],
+      cache: false,
+    }),
+    new HtmlWebpackPlugin({
+      template: path.join(__dirname, 'src', 'pages', 'Bookmarks', 'bookmarks.html'),
+      filename: 'bookmarks.html',
+      chunks: ['bookmarks'],
       cache: false,
     }),
     new HtmlWebpackPlugin({
