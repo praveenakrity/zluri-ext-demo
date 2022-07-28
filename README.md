@@ -1,5 +1,7 @@
 <img src="src/assets/img/icon-128.png" width="64"/>
 
+### In bookmarks API, 1 is the key for Bookmarks Bar and 2 is for the Other bookmarks
+
 # Important Resources
 
 # Refresh Token from Class LocalStorageCache
