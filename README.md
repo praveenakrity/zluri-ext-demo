@@ -6,29 +6,29 @@
 
 # Refresh Token from Class LocalStorageCache
 
-# https://auth0.github.io/auth0-react/classes/LocalStorageCache.html#allKeys
+### https://auth0.github.io/auth0-react/classes/LocalStorageCache.html#allKeys
 
-# https://auth0.com/docs/api/authentication?javascript#errors
+### https://auth0.com/docs/api/authentication?javascript#errors
 
-# Login in Popup Using
+### Login in Popup Using
 
-# https://community.auth0.com/t/ultimate-guide-to-auth0-in-a-chrome-extension-popup/61362/2
+### https://community.auth0.com/t/ultimate-guide-to-auth0-in-a-chrome-extension-popup/61362/2
 
-# https://community.auth0.com/t/automatic-login-with-no-user-interaction/71398/3
+### https://community.auth0.com/t/automatic-login-with-no-user-interaction/71398/3
 
-# https://community.auth0.com/t/silent-auto-login-for-user-after-completing-authentication-api-backed-custom-signup-form/29790/2
+### https://community.auth0.com/t/silent-auto-login-for-user-after-completing-authentication-api-backed-custom-signup-form/29790/2
 
-# https://www.youtube.com/watch?v=yf2Hge3VHKY
+### https://www.youtube.com/watch?v=yf2Hge3VHKY
 
-# https://www.youtube.com/watch?v=996OiexHze0
+### https://www.youtube.com/watch?v=996OiexHze0
 
-# https://www.pingidentity.com/en/resources/content-library/articles/openid-connect.html
+### https://www.pingidentity.com/en/resources/content-library/articles/openid-connect.html
 
-# https://auth0.com/docs/get-started/authentication-and-authorization-flow
+### https://auth0.com/docs/get-started/authentication-and-authorization-flow
 
-# https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use
+### https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use
 
-# https://auth0.com/docs/authenticate/login/configure-silent-authentication
+### https://auth0.com/docs/authenticate/login/configure-silent-authentication
 
 # Chrome Extension Boilerplate with React 17 and Webpack 5
 
